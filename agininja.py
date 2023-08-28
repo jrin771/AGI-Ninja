@@ -195,7 +195,7 @@ def main():
                     GAME_HEIGHT / 2 - img_size[1] / 2)
                 start_fruit = Fruit( # create fruit object
                     name="Start Fruit", 
-                    img_filepath="images/watermelon.png", 
+                    img_filepath="images/transformer_arch.png", 
                     starting_point=fruit_pos,
                     size=img_size,
                     velocity=0,

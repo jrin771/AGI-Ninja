@@ -4,7 +4,6 @@ import cv2
 import mediapipe as mp
 import math
 import time
-
 from mediapipe.framework.formats import landmark_pb2
 
 MP_DRAWING = mp.solutions.drawing_utils

@@ -10,3 +10,8 @@ Check makesureyouhavethese.md to ensure the game runs properly
 python3 agininja.py to run 
 
 Much of original codebase is from: https://github.com/mmbaguette/Fruit-Ninja-VR. Check out their work!
+
+
+TO-DO: 
+Rewrite as much of this code as possible to be even more original/awesome. 
+Add in EEG capabilities. (big one)
